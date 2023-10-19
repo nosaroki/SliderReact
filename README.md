@@ -1,6 +1,6 @@
 # Ecole du Web - Code a slider with React
 
-This is my solution for the exercise making a slider with React with @ecoleduweb
+This is my solution for the exercise making a slider with React
 
 ## Table of contents
 
@@ -34,6 +34,6 @@ Users should be able to:
 - LinkedIn - (https://www.linkedin.com/in/nn%C3%A9na/)
 - Paypal - [@NOsarokio] (https://www.paypal.com/paypalme/NOsarokio)
 
-## Acknnowledgment
+## Acknowledgment
 
 Thanks to @ecoleduweb for this exercise ! 
